@@ -8,3 +8,5 @@ First update to master branch
 
 Second update to same file where the master is also updated
 hold updates infeature/dev
+
+updating in master
