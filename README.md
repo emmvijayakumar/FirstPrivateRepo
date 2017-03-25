@@ -9,5 +9,9 @@ First update to master branch
 Second update to same file where the master is also updated
 hold updates infeature/dev
 
+master
+updating in master
+=======
 
 updating in feature/dev branch
+feature/dev
