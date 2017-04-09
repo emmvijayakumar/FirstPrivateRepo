@@ -1,6 +1,10 @@
 # FirstPrivateRepo
 Test create repository
+
+FOR MASTER TO DEV
+
 FOR DEV
+
 First Test change to feature/dev branch
 
 accept update from master
