@@ -1,7 +1,7 @@
 # FirstPrivateRepo
 Test create repository
 11111111111 M
-22222222222 M
+
 11111111111 D
 MASTERTEST
 
